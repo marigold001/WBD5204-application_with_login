@@ -1,4 +1,4 @@
-# application_with_login
+# vue-login-cars-application-component
 
 Create a login form. It needs to look like the one in the pictureLinks to an external site.
 - Both username and password will be required.
